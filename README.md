@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>Ingeniera en Software y Redes</strong><br/>
-  Enfoque en <strong>Desarrollo Front End</strong>
+  <strong>Desarrollo Front End</strong>
 </p>
 
 ---
