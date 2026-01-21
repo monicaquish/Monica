@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3d1edb80-511d-4896-a340-98373143ec5a" />
+  <img 
+    src="https://github.com/user-attachments/assets/3d1edb80-511d-4896-a340-98373143ec5a" />
        alt="Ilustración de Mónica"
-       width="250"/>
+       width="250"
+  />
 </p>
 
 <h1 align="center">Hola, soy Mónica  👋🏽</h1>
