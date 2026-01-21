@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/04638c68-7789-40d1-af15-4704e5845d9c"
+  <img width="992" height="1056" alt="Gemini_Generated_Image_uz3zu4uz3zu4uz3z" src="https://github.com/user-attachments/assets/3d1edb80-511d-4896-a340-98373143ec5a" />
+
        alt="Ilustración de Mónica"
        width="250"/>
 </p>
