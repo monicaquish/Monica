@@ -22,20 +22,14 @@
 Hola, soy **Mónica Quiroz Santander**, Ingeniera en Software y Redes con enfoque en  
 **Desarrollo Front End**.
 
-Actualmente me desempeño en **soporte técnico**, lo que me ha permitido desarrollar
-una fuerte capacidad de **análisis y resolución de problemas**.  
-De manera constante, continúo aprendiendo y perfeccionando mis conocimientos como
-desarrolladora, con el objetivo de **aportar soluciones de valor** y
-**contribuir al crecimiento de las empresas**.
+Experiencia en soporte técnico, análisis de incidencias y desarrollo web, fortaleciendo habilidades de resolución de problemas, pensamiento lógico y trabajo colaborativo. 
+Comprometida con el aprendizaje continuo y el desarrollo de aplicaciones web, eficientes y accesibles.
 
 ### 🚀 Áreas de interés
 - Desarrollo Front End  
 - Mejora continua y aprendizaje constante  
 - Resolución de problemas  
 - Trabajo colaborativo  
-
-    </td>
-    <td width="35%" align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
